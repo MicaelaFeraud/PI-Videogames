@@ -1,0 +1,60 @@
+.Conte-General {
+    box-sizing: border-box;
+    border-radius: 30px;
+    background-color: #FC9C9A;
+    box-shadow: #3D2625 20%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 5px;
+  }
+  .Conte-Sub {
+    box-sizing: border-box;
+    border-radius: 16px;
+    background-color: #ffffff2f;
+    box-shadow: 1px 1px 18px #080808;
+    margin-top: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .ImagenDetail {
+    height: 410px;
+    width: 730px;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    padding: 0;
+    box-shadow: 0 20px 40px -14px #000000c4;
+    border-radius: 20px;
+  }
+  .button{
+    font-weight: bold;
+    align-items: center;
+  }
+  .detailTitle{
+    color: #fbfbfb;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: "Staatliches", sans-serif;
+    text-shadow: 2px 2px 5px #000000;
+    text-align: center;
+  }
+  .Detail-Description{
+    color: #ffffff;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    align-items: center;
+    font-weight: bold;
+    min-width: 10px;
+    font-family: "Red Hat Display", sans-serif;
+    text-shadow: 2px 2px 5px #000000;
+    margin-top: 15px;
+    text-align: justify;
+    padding-right: 3%;
+    padding-left: 5%;
+    padding-bottom: 1%;
+  }

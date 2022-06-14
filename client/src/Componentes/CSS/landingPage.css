@@ -1,0 +1,26 @@
+.Background-landingPage{
+    background-image: url("https://www.gifsanimados.org/data/media/544/kawai-imagen-animada-0420.gif");
+    background-position: 25%;
+    margin: 5%;
+    background-repeat:no-repeat;
+    background-size: 40vh;
+    height: 600px;
+}
+
+.title-landingPage{
+    color: #FFB6B5;
+    text-shadow: 2px 2px 5px #FC9C9A;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing: 3px;
+}
+.starto{
+    margin-top: 30%;
+}
+.image-landingPage{
+    background-image: url("https://www.gifsanimados.org/data/media/544/kawai-imagen-animada-0126.gif");
+    background-position: 75%;
+    background-repeat:no-repeat;
+    background-size: 25vh;
+}

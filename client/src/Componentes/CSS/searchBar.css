@@ -1,0 +1,34 @@
+.inputS {
+    margin: 20px;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    font-size: 18px;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  
+  .botonS {
+    height: 35px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 2px;
+    color: #13171b;
+    background-color: #FC9C9A;
+    border: none;
+    border-radius: 10px;
+    transition: all ease 200ms;
+    cursor: pointer;
+    outline: none;
+    font-family: "Red Hat Display", sans-serif;
+  }
+  
+  .botonS:hover {
+    background-color:hsl(0,0%, 100%);
+  }
+  
+  .botonS:active {
+    transform: translateY(3%);
+    
+  }

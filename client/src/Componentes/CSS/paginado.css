@@ -1,0 +1,30 @@
+.ul {
+    padding-left: 0px;
+  }
+  
+  .paginado {
+    margin-bottom: 2%;
+    display: inline-flex;
+    justify-content: space-around;
+    height: 1em;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .botonPaginado {
+    font-family: "Staatliches", sans-serif;
+    font-weight:200;
+    font-size: 18px;
+    color: #13171b;
+    background-color: #FC9C9A;
+    border: none;
+    border-radius: 2px;
+    padding: 4px 13px;
+    margin: 10px 10px;
+    box-shadow: 2px 2px 15px #3D2625 20%;
+    text-shadow: 1px 1px 1px #000000;
+  }
+ 
+  .botonPaginado:hover{
+    background-color:#ffffff;
+  }

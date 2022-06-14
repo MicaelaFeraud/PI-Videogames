@@ -1,0 +1,36 @@
+.cont{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+    flex-direction: column;
+    width: 100vw;
+    text-decoration: none;
+}
+.filters{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    text-decoration: none;
+    border-bottom: 2px solid #7D4D4C; 
+    height: 60px;
+    align-items: center;
+    background-color: #B05B5A;
+}
+
+.nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+.nav > a:hover {
+    /* transform: scale(1.1); */
+    transform: translateY(-2px);
+    transition-duration: 200ms;
+}
